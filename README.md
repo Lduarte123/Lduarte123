@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Duarte Silvino!
 
 ## 🌟 Sobre mim
-Sou apaixonado por desenvolvimento e tecnologia, sempre buscando criar soluções criativas e funcionais. Meu foco está em desenvolvimento web e análise de dados, com experiência em Python, SQL e ferramentas de design. Além disso, tenho uma agência de design chamada **Marsesh Design**, onde crio materiais visuais impactantes.
+Sou apaixonado por desenvolvimento e tecnologia, sempre buscando criar soluções criativas e funcionais. Meu foco está em desenvolvimento web e análise de dados, com experiência em Python, SQL e ferramentas de design.
 
 ## 🚀 O que eu faço
 - 📌 Desenvolvimento de aplicações com **Python e SQL**
