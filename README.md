@@ -9,10 +9,6 @@ Sou apaixonado por desenvolvimento e tecnologia, sempre buscando criar soluçõe
 - 🏗️ Construção de sites e landing pages
 - 📊 Análise de dados e organização de informações
 
-## 🔥 Projetos em destaque
-🔹 [Projeto de Cadastro de Clientes](#) - Aplicação em Python com Tkinter integrada a um banco de dados.  
-🔹 [Sistema Bancário Simples](#) - Simulação de transações bancárias utilizando OOP.  
-🔹 [Marsesh Design](#) - Agência de design gráfico e criação digital.  
 
 ## 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,8 +19,8 @@ Sou apaixonado por desenvolvimento e tecnologia, sempre buscando criar soluçõe
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Onde me encontrar
-📩 **Email:** [Seu Email]  
-💼 **LinkedIn:** [Seu LinkedIn]  
+📩 **Email:** [Duare7444@gmail.com]  
+💼 **LinkedIn:** (https://www.linkedin.com/in/lucas-duarte-a631ab198) 
 
 
 🚀 Sempre em busca de evolução e novos desafios! Se quiser trocar ideias ou colaborar, entre em contato. 😃
