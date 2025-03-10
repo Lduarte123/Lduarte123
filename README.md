@@ -1,16 +1,16 @@
-# 👋 Olá, eu sou o Lucas Duarte Silvino!
+# Olá, eu sou o Lucas Duarte Silvino!
 
-## 🌟 Sobre mim
+##  Sobre mim
 Sou apaixonado por desenvolvimento e tecnologia, sempre buscando criar soluções criativas e funcionais. Meu foco está em desenvolvimento web e análise de dados, com experiência em Python, SQL e ferramentas de design.
 
-## 🚀 O que eu faço
-- 📌 Desenvolvimento de aplicações com **Python e SQL**
-- 🎨 Web Design e UI/UX com foco em experiência do usuário
-- 🏗️ Construção de sites e landing pages
-- 📊 Análise de dados e organização de informações
+##  O que eu faço
+-  Desenvolvimento de aplicações com **Python e SQL**
+-  Web Design e UI/UX com foco em experiência do usuário
+-  Construção de sites e landing pages
+-  Análise de dados e organização de informações
 
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,7 +21,7 @@ Sou apaixonado por desenvolvimento e tecnologia, sempre buscando criar soluçõe
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 📫 Onde me encontrar
+##  Onde me encontrar
 📩 **Email:** [Duare7444@gmail.com]  
 💼 **LinkedIn:** (https://www.linkedin.com/in/lucas-duarte-a631ab198) 
 
