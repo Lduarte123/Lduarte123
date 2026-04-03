@@ -1,168 +1,123 @@
 <div align="center">
 
-# Olá, eu sou [Seu Nome] 👋
+# Lucas Duarte
 
-**Estudante de Desenvolvimento de Sistemas | Front-end & Web Developer | Entusiasta de Dados**
+**Desenvolvimento de Sistemas &nbsp;·&nbsp; Front-end &nbsp;·&nbsp; Dados**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfólio](https://img.shields.io/badge/Portfólio-mar.esh-FF6B6B?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://seu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=e66040&labelColor=0a0a0f)](https://linkedin.com/in/seu-perfil)
+[![Portfolio](https://img.shields.io/badge/mar.sesh-0a0a0f?style=for-the-badge&logo=vercel&logoColor=6ab4e8&labelColor=0a0a0f)](https://mar-sesh.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=aaaacc&labelColor=0a0a0f)](https://github.com/Lduarte123)
+[![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=aaaacc&labelColor=0a0a0f)](mailto:seu@email.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre
 
-Sou estudante de **Desenvolvimento de Sistemas** apaixonado por criar experiências digitais que unem tecnologia e usabilidade. Minha trajetória começou no desenvolvimento web e foi se expandindo para front-end moderno, análise de dados e aplicações mobile — sempre com foco em código limpo, performance e design cuidadoso.
+Estudante de Desenvolvimento de Sistemas com foco em criar experiencias digitais que unem tecnologia, movimento e usabilidade. Construo produtos reais — de e-commerces a aplicacoes com dados — sempre com atencao ao codigo limpo e ao design que respira.
 
-Tenho experiência prática construindo projetos reais: de e-commerces funcionais a portfólios criativos, passando por aplicações com React, automações com Python e análise de dados com SQL. Cada projeto me ensinou algo novo e me preparou para desafios reais no mercado.
-
-> *"A melhor forma de aprender é colocando a mão na massa — e é exatamente isso que venho fazendo."*
+> A melhor forma de aprender e colocando a mao na massa. E exatamente isso que venho fazendo.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias
 
-### Front-end
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Front-end**
 
-### Back-end & Dados
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-0a0a0f?style=flat-square&logo=react&logoColor=7ac0ee)
+![React Native](https://img.shields.io/badge/React_Native-0a0a0f?style=flat-square&logo=react&logoColor=7ac0ee)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=7ac0ee)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=flat-square&logo=node.js&logoColor=7ac0ee)
 
-### DevOps & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Back-end & Dados**
 
----
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=e88060)
+![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=flat-square&logo=mysql&logoColor=e88060)
 
-## 🚀 Projetos em Destaque
+**Fundacao**
 
-### 🦁 [Lionstech](https://github.com/seu-usuario/lionstech)
-> Plataforma web desenvolvida com foco em performance e identidade visual forte.
+![HTML](https://img.shields.io/badge/HTML-0a0a0f?style=flat-square&logo=html5&logoColor=50d0b0)
+![CSS](https://img.shields.io/badge/CSS-0a0a0f?style=flat-square&logo=css3&logoColor=50d0b0)
 
-- Desenvolvida com **React** e componentização avançada
-- Integração com APIs externas e gerenciamento de estado
-- UI/UX pensada para conversão e engajamento do usuário
-- Deploy automatizado com boas práticas de versionamento
+**Ferramentas**
 
-`React` `Node.js` `CSS Modules` `Git`
+![Git](https://img.shields.io/badge/Git-0a0a0f?style=flat-square&logo=git&logoColor=9090b0)
+![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=flat-square&logo=docker&logoColor=9090b0)
+![Figma](https://img.shields.io/badge/Figma-0a0a0f?style=flat-square&logo=figma&logoColor=9090b0)
 
 ---
 
-### 💨 [Windly](https://github.com/seu-usuario/windly)
-> Aplicação moderna com foco em experiência do usuário e dados em tempo real.
+## Projetos em destaque
 
-- Interface responsiva e fluida construída com **React**
-- Consumo de APIs e manipulação de dados dinâmicos
-- Atenção especial à performance e acessibilidade
-- Arquitetura de componentes escalável
+### Lionstech
+Plataforma web com identidade visual forte, componentizacao avancada e integracao com APIs externas.
 
-`React` `JavaScript` `API REST` `Responsive Design`
+`React` &nbsp; `Node.js` &nbsp; `Git`
 
 ---
 
-### 🛍️ [PoisonShop](https://github.com/seu-usuario/poisonshop)
-> E-commerce completo com gestão de produtos, carrinho e fluxo de compra.
+### Windly
+Aplicativo de previsao do tempo com interface moderna, dados em tempo real e arquitetura de componentes escalavel.
 
-- Desenvolvimento full-cycle de uma loja virtual funcional
-- Gerenciamento de estado de carrinho e sessão do usuário
-- Integração com banco de dados para catálogo de produtos (**SQL**)
-- Experiência de compra intuitiva e responsiva
-
-`React` `Node.js` `SQL` `E-commerce`
+`React Native` &nbsp; `Node` &nbsp; `Docker`
 
 ---
 
-### 👓 [Duarte Ótica](https://github.com/seu-usuario/duarte-otica)
-> Sistema web para gestão e apresentação de produtos de uma ótica.
+### PoisonShop
+E-commerce completo com gestao de produtos, carrinho e fluxo de compra integrado com banco de dados.
 
-- Catálogo digital de produtos com filtros e pesquisa
-- Painel administrativo para gestão de estoque
-- Integração com banco de dados relacional (**SQL**)
-- Design responsivo adaptado para o público-alvo
-
-`HTML` `CSS` `JavaScript` `SQL`
+`React` &nbsp; `Node.js` &nbsp; `SQL`
 
 ---
 
-### 🌊 [Portfólio mar.esh](https://seu-portfolio.com)
-> Portfólio pessoal criativo que reflete minha identidade como desenvolvedor.
+### Duarte Otica
+Sistema de catalogo digital com painel administrativo para gestao de estoque e produtos.
 
-- Design exclusivo com foco em storytelling visual
-- Animações e interações que elevam a experiência
-- Otimizado para SEO e performance
-- Construído com atenção aos detalhes de UI/UX
-
-`React` `CSS Animations` `UI/UX` `Figma`
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `SQL`
 
 ---
 
-## 💼 Experiência Prática
+### mar.sesh — Portfolio Criativo
+Portfolio pessoal com design fluido, animacoes de alta performance e identidade visual unica. Otimizado para SEO e experiencia do usuario.
 
-| Projeto | Papel | Tecnologias Envolvidas |
+`React` &nbsp; `CSS Animations` &nbsp; `UI/UX` &nbsp; `Figma`
+
+---
+
+## Experiencia
+
+| Projeto | Papel | Stack |
 |---|---|---|
-| **PoisonShop** | Desenvolvedor Full-stack | React, Node.js, SQL |
-| **Duarte Ótica** | Desenvolvedor Web | HTML, CSS, JS, SQL |
-| **Windly** | Desenvolvedor Front-end | React, API REST |
-| **Lionstech** | Desenvolvedor Front-end | React, Node.js |
-| **mar.esh Portfólio** | Design & Desenvolvimento | React, UI/UX, Figma |
+| PoisonShop | Desenvolvedor Full-stack | React, Node.js, SQL |
+| Duarte Otica | Desenvolvedor Web | HTML, CSS, JS, SQL |
+| Windly | Desenvolvedor Front-end | React Native, Node, Docker |
+| Lionstech | Desenvolvedor Front-end | React, Node.js |
+| mar.sesh | Design & Desenvolvimento | React, UI/UX, Figma |
 
 ---
 
-## 🎯 Objetivo Profissional
+## Objetivo profissional
 
-Estou em busca de uma **oportunidade de estágio** em desenvolvimento web, front-end ou análise de dados onde eu possa:
+Estagio em desenvolvimento web, front-end ou analise de dados onde possa contribuir com projetos reais desde o primeiro dia, crescer junto a um time experiente e transformar problemas complexos em solucoes elegantes.
 
-- Contribuir com projetos reais desde o primeiro dia
-- Crescer junto a um time experiente e colaborativo
-- Aprofundar meu conhecimento em tecnologias modernas
-- Transformar problemas complexos em soluções elegantes
-
-Sou movido pela curiosidade, pela entrega com qualidade e pela vontade genuína de aprender. Se você procura alguém comprometido, que aprende rápido e não tem medo de desafios — vamos conversar!
+Sou movido pela curiosidade, pela entrega com qualidade e pela vontade genuina de aprender. Se voce procura alguem comprometido, que aprende rapido e nao tem medo de desafios — vamos conversar.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📬 Contato
-
-Estou aberto a conversas sobre estágios, projetos e colaborações. Fique à vontade para me chamar!
-
-<div align="center">
+## Contato
 
 | Canal | Link |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) |
-| 🌐 Portfólio | [mar.esh](https://seu-portfolio.com) |
-| 📧 E-mail | [seu@email.com](mailto:seu@email.com) |
-| 💻 GitHub | [@seu-usuario](https://github.com/seu-usuario) |
-
-</div>
+| LinkedIn | [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) |
+| Portfolio | [mar-sesh.vercel.app](https://mar-sesh.vercel.app) |
+| Email | [seu@email.com](mailto:seu@email.com) |
+| GitHub | [github.com/Lduarte123](https://github.com/Lduarte123) |
 
 ---
 
 <div align="center">
 
-*Feito com ☕ e muita linha de código*
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lduarte123&show_icons=true&bg_color=0a0a0f&title_color=e66040&icon_color=6ab4e8&text_color=9090b0&hide_border=true)
 
 </div>
-
