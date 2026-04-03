@@ -4,10 +4,10 @@
 
 **Desenvolvimento de Sistemas &nbsp;·&nbsp; Front-end &nbsp;·&nbsp; Dados**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=e66040&labelColor=0a0a0f)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=e66040&labelColor=0a0a0f)](https://www.linkedin.com/in/lucasduartesilvino/)
 [![Portfolio](https://img.shields.io/badge/mar.sesh-0a0a0f?style=for-the-badge&logo=vercel&logoColor=6ab4e8&labelColor=0a0a0f)](https://mar-sesh.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=aaaacc&labelColor=0a0a0f)](https://github.com/Lduarte123)
-[![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=aaaacc&labelColor=0a0a0f)](mailto:seu@email.com)
+[![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=aaaacc&labelColor=0a0a0f)](mailto:duare7444@gmail.com)
 
 </div>
 
@@ -99,9 +99,9 @@ Portfolio pessoal com design fluido, animacoes de alta performance e identidade 
 
 ## Objetivo profissional
 
-Estagio em desenvolvimento web, front-end ou analise de dados onde possa contribuir com projetos reais desde o primeiro dia, crescer junto a um time experiente e transformar problemas complexos em solucoes elegantes.
+Busco oportunidades em desenvolvimento de software onde eu possa contribuir com projetos reais, evoluir tecnicamente e participar da construção de soluções eficientes e escaláveis. Tenho interesse em atuar com desenvolvimento web, aplicações modernas e sistemas orientados a dados, trabalhando em equipe e aprendendo continuamente com desafios do mundo real.
 
-Sou movido pela curiosidade, pela entrega com qualidade e pela vontade genuina de aprender. Se voce procura alguem comprometido, que aprende rapido e nao tem medo de desafios — vamos conversar.
+Sou movido pela curiosidade, pela entrega com qualidade e pela vontade genuína de aprender. Se você procura alguém comprometido, com experiência prática e foco em evolução constante, vamos conversar.
 
 ---
 
@@ -109,9 +109,9 @@ Sou movido pela curiosidade, pela entrega com qualidade e pela vontade genuina d
 
 | Canal | Link |
 |---|---|
-| LinkedIn | [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) |
+| LinkedIn | [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/lucasduartesilvino/) |
 | Portfolio | [mar-sesh.vercel.app](https://mar-sesh.vercel.app) |
-| Email | [seu@email.com](mailto:seu@email.com) |
+| Email | [seu@email.com](mailto:duare7444@gmail.com) |
 | GitHub | [github.com/Lduarte123](https://github.com/Lduarte123) |
 
 ---
